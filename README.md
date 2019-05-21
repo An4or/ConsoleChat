@@ -27,4 +27,4 @@ ClientGuiController - дочерний класс Client (Controller в MVC)
 Работа с библиотекой Swing;
 Применение классов Calendar и SimpleDateFormat
 
-![UML Diagrams](https://github.com/An4or/Chat_UML.png)
+![UML Diagrams](https://github.com/An4or/ConsoleChat/Chat_UML.png)
